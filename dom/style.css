@@ -1,0 +1,25 @@
+
+/* .btn{
+    border: 1px solid green;
+} */
+/* .p1{
+    color: green;
+   display: none;
+}
+.p2{
+    color: red;
+    display: none;
+} */
+
+
+.acc1 p{
+    display: none;
+}
+.iccon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 800px;
+    border: 1px solid;
+}
