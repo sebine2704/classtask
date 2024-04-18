@@ -1,0 +1,81 @@
+
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.home .fa-solid{
+    display: none;
+}
+.page h1{
+    margin-left: 600px;
+}
+.img{
+    width: 120px;
+    height: 140px;
+    display: flex;
+    
+}
+.card{
+    border: 1px solid rgb(96, 95, 95);
+    width: 250px;
+    padding: 5px;
+    background-color: pink;
+
+}
+.imgbox{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Basket{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(187, 67, 107);
+    border-radius: 6px;
+    color: white;
+}
+.text1{
+   height: 50px;
+   width: 250px;
+   padding-top: 30px;
+   font-weight: 700;
+  
+}
+.detailsbtn{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.text2{
+    color: rgb(87, 84, 84);
+    font-weight: bold;
+
+}
+.price{
+    font-weight: bolder;
+    color: red
+}
+.footerbox{
+    border-top: 3px solid rgb(163, 159, 159);
+    
+}
+.fa-solid{
+    font-size: 18px;
+
+   
+}
+.fa-regular {
+    margin-bottom: 100px;
+    margin-left: 20px;
+    
+    border: 1px solid rgb(198, 198, 198);
+    border-radius: 50%;
+    padding: 6px;
+}
