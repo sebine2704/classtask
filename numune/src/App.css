@@ -1,0 +1,47 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background: black;
+}
+input{
+  height: 45px;
+  border-radius: 15px;
+  border: 1px solid white;
+  margin-left: 5px;
+}
+.AllBox{
+  display:flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.Box-size{
+  height: 250px;
+  background-color: rgb(0, 217, 255);
+  width: 25%;
+  border-radius: 10px;
+}
+input{
+  width: 250px;
+}
+.TextBox{
+height: 180px;
+}
+.Buttons{
+ margin-top: 10px;
+}
+.EditBtn{
+  margin-right: 10px;
+}
+.UpdateBtn{
+  margin-left: 10px;
+}
+.AddBtn{
+  background-color: rgb(0, 217, 255);
+  margin:5px 5px 0 5px;
+}
