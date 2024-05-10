@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  display: flex;
+  margin-left: 10%;
+}
+.homepage {
+  border: 1px solid red;
+}
+.prdbox {
+  border: 2px solid rgb(174, 255, 0);
+  height: 200px;
+}
+.prdimg {
+  width: 50px;
+}
+.prdbtn {
+  padding: 5px 10px;
+  border-radius: 18%;
+  margin-left: 300px;
+  cursor: pointer;
+  border: 2px solid rgb(174, 255, 0);
+}
+.homepage {
+  width: 450px;
+}
+.basktpage {
+  width: 450px;
+  height: 700px;
+  border: 1px solid red;
+}
+.wishistpage {
+  width: 450px;
+  height: 700px;
+  border: 1px solid red;
+}
